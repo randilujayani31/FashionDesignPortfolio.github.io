@@ -1,1 +1,2 @@
 # FashionDesignPortfolio.github.io
+This page incude a portfolio of a fashion designer.Header contains headings include in the page.When you click on each topic you can access the content related to each topic.Page include a slide show which describes the page.This page contains different types of button to achieve different types of tasks.Finally a customer can fill the form to contact the designer to fullfill his/her need.
